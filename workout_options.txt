@@ -1,0 +1,6 @@
+,legs,arms,chest,back
+1,Front Squat,Dumbell Curls,Barbell Bench,Lat Pull-downs
+2,Back Squat,Barbell Curls,Dumbell Bench,Close-grip rows
+3,Deadlift,Cable Curls,Chest Press,Standing Dumbell rows
+4,Russian Deadlift,Close-grip push-ups,Flies,Wide-grip pull-ups
+5,,Overhead Tricep Exentions,Wide-grip push-ups,Standing Barbell rows
