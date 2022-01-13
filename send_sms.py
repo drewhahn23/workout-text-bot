@@ -28,8 +28,7 @@ def send_text(cleaned_list):
 	# for i in range(len(carriers)):
 
 	# 	try:
-	# 		email = "drewhahn23@gmail.com"
-	# 		pas = "zjmxdfqrswjajkvx"
+
 
 
 
