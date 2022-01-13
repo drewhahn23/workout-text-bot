@@ -33,8 +33,7 @@ def send_text(cleaned_list):
 
 
 
-	email = "drewhahn23@gmail.com"
-	pas = "zjmxdfqrswjajkvx"
+
 
 	sms_gateway = '9737148343@vtext.com'
 	smtp = "smtp.gmail.com"
